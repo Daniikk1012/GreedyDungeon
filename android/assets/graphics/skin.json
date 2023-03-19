@@ -1,0 +1,71 @@
+{
+  Color : {
+    white : {
+      r : 1
+      g : 1
+      b : 1
+    }
+  }
+  TextButtonStyle : {
+    big : {
+      font : large
+      fontColor : white
+      up : button/big/up
+      down : button/big/down
+    }
+  }
+  ImageButtonStyle : {
+    pause : {
+      imageUp : button/small/icon/pause
+      up : button/small/up
+      down : button/small/down
+    }
+    graveyard : {
+      imageUp : button/small/icon/graveyard
+      up : button/small/up
+      down : button/small/down
+    }
+    deck : {
+      imageUp : button/small/icon/deck
+      up : button/small/up
+      down : button/small/down
+    }
+    map : {
+      imageUp : button/small/icon/map
+      up : button/small/up
+      down : button/small/down
+    }
+    stop : {
+      imageUp : button/small/icon/stop
+      up : button/small/up
+      down : button/small/down
+    }
+    info : {
+      imageUp : button/small/icon/info
+      up : button/small/up
+      down : button/small/down
+    }
+    magic : {
+      imageUp : button/small/icon/magic
+      up : button/small/up
+      down : button/small/down
+    }
+    add : {
+      imageUp : button/small/icon/add
+      up : button/small/up
+      down : button/small/down
+    }
+  }
+  LabelStyle : {
+    small : {
+      font : small
+      fontColor : white
+    }
+    default : small
+  }
+  TextureRegionDrawable : {
+    score : {
+      region : game/score
+    }
+  }
+}

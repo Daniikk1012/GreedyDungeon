@@ -1,0 +1,312 @@
+
+skin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button/big/down
+  rotate: false
+  xy: 2, 60
+  size: 208, 48
+  orig: 208, 48
+  offset: 0, 0
+  index: -1
+button/big/up
+  rotate: false
+  xy: 212, 60
+  size: 208, 48
+  orig: 208, 48
+  offset: 0, 0
+  index: -1
+button/room/down
+  rotate: false
+  xy: 470, 410
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/boss
+  rotate: false
+  xy: 278, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/chest
+  rotate: false
+  xy: 470, 444
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/ladders
+  rotate: false
+  xy: 470, 308
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/level-up
+  rotate: false
+  xy: 470, 274
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/magic
+  rotate: false
+  xy: 470, 240
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/magic
+  rotate: false
+  xy: 470, 240
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/mega-boss
+  rotate: false
+  xy: 470, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/none
+  rotate: false
+  xy: 470, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/regular
+  rotate: false
+  xy: 456, 70
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/reroll
+  rotate: false
+  xy: 456, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/secret
+  rotate: false
+  xy: 448, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/down
+  rotate: false
+  xy: 346, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/add
+  rotate: false
+  xy: 470, 478
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/deck
+  rotate: false
+  xy: 312, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/graveyard
+  rotate: false
+  xy: 470, 376
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/info
+  rotate: false
+  xy: 470, 342
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/map
+  rotate: false
+  xy: 470, 206
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/pause
+  rotate: false
+  xy: 422, 48
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+card/background
+  rotate: false
+  xy: 404, 446
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+card/image/sword
+  rotate: false
+  xy: 404, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+card/top/blue
+  rotate: false
+  xy: 404, 380
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+card/top/green
+  rotate: false
+  xy: 404, 314
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+card/top/grey
+  rotate: false
+  xy: 404, 248
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+card/top/red
+  rotate: false
+  xy: 404, 182
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+game/icon/hand
+  rotate: false
+  xy: 380, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+game/icon/min
+  rotate: false
+  xy: 470, 138
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+game/icon/money
+  rotate: false
+  xy: 422, 82
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+game/icon/roll
+  rotate: false
+  xy: 414, 14
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+game/score
+  rotate: false
+  xy: 212, 26
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+main-menu/title
+  rotate: false
+  xy: 2, 10
+  size: 208, 48
+  orig: 208, 48
+  offset: 0, 0
+  index: -1
+map/background
+  rotate: false
+  xy: 2, 110
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+skin2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button/room/icon/shop
+  rotate: false
+  xy: 2, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/icon/trapdoor
+  rotate: false
+  xy: 36, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/room/up
+  rotate: false
+  xy: 404, 404
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/icon/stop
+  rotate: false
+  xy: 404, 438
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button/small/up
+  rotate: false
+  xy: 438, 438
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+game/icon/table
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+main-menu/background
+  rotate: false
+  xy: 2, 70
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+skin3.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+monster/dog
+  rotate: false
+  xy: 2, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
